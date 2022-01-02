@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\RegularExpressions-Lab\RegularExpressions-Lab\bin\Debug\netcoreapp3.1\01.MatchFullName.exe
+C:\Users\Admin\source\repos\RegularExpressions-Lab\RegularExpressions-Lab\bin\Debug\netcoreapp3.1\01.MatchFullName.deps.json
+C:\Users\Admin\source\repos\RegularExpressions-Lab\RegularExpressions-Lab\bin\Debug\netcoreapp3.1\01.MatchFullName.runtimeconfig.json
+C:\Users\Admin\source\repos\RegularExpressions-Lab\RegularExpressions-Lab\bin\Debug\netcoreapp3.1\01.MatchFullName.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\RegularExpressions-Lab\RegularExpressions-Lab\bin\Debug\netcoreapp3.1\01.MatchFullName.dll
+C:\Users\Admin\source\repos\RegularExpressions-Lab\RegularExpressions-Lab\bin\Debug\netcoreapp3.1\01.MatchFullName.pdb
+C:\Users\Admin\source\repos\RegularExpressions-Lab\RegularExpressions-Lab\obj\Debug\netcoreapp3.1\01.MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RegularExpressions-Lab\RegularExpressions-Lab\obj\Debug\netcoreapp3.1\01.MatchFullName.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RegularExpressions-Lab\RegularExpressions-Lab\obj\Debug\netcoreapp3.1\01.MatchFullName.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RegularExpressions-Lab\RegularExpressions-Lab\obj\Debug\netcoreapp3.1\01.MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RegularExpressions-Lab\RegularExpressions-Lab\obj\Debug\netcoreapp3.1\01.MatchFullName.dll
+C:\Users\Admin\source\repos\RegularExpressions-Lab\RegularExpressions-Lab\obj\Debug\netcoreapp3.1\01.MatchFullName.pdb
+C:\Users\Admin\source\repos\RegularExpressions-Lab\RegularExpressions-Lab\obj\Debug\netcoreapp3.1\01.MatchFullName.genruntimeconfig.cache

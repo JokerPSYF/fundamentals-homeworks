@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Methods-Exercise\01.SmallestΟfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestΟfThreeNumbers.exe
+C:\Users\Admin\source\repos\Methods-Exercise\01.SmallestΟfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestΟfThreeNumbers.deps.json
+C:\Users\Admin\source\repos\Methods-Exercise\01.SmallestΟfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestΟfThreeNumbers.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods-Exercise\01.SmallestΟfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestΟfThreeNumbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods-Exercise\01.SmallestΟfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestΟfThreeNumbers.dll
+C:\Users\Admin\source\repos\Methods-Exercise\01.SmallestΟfThreeNumbers\bin\Debug\netcoreapp3.1\01.SmallestΟfThreeNumbers.pdb
+C:\Users\Admin\source\repos\Methods-Exercise\01.SmallestΟfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestΟfThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Methods-Exercise\01.SmallestΟfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestΟfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods-Exercise\01.SmallestΟfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestΟfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods-Exercise\01.SmallestΟfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestΟfThreeNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods-Exercise\01.SmallestΟfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestΟfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods-Exercise\01.SmallestΟfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestΟfThreeNumbers.dll
+C:\Users\Admin\source\repos\Methods-Exercise\01.SmallestΟfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestΟfThreeNumbers.pdb
+C:\Users\Admin\source\repos\Methods-Exercise\01.SmallestΟfThreeNumbers\obj\Debug\netcoreapp3.1\01.SmallestΟfThreeNumbers.genruntimeconfig.cache

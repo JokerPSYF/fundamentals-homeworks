@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Methods-Lab\Methods-Lab\bin\Debug\netcoreapp3.1\01.SignIntegerNumbers.exe
+C:\Users\Admin\source\repos\Methods-Lab\Methods-Lab\bin\Debug\netcoreapp3.1\01.SignIntegerNumbers.deps.json
+C:\Users\Admin\source\repos\Methods-Lab\Methods-Lab\bin\Debug\netcoreapp3.1\01.SignIntegerNumbers.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods-Lab\Methods-Lab\bin\Debug\netcoreapp3.1\01.SignIntegerNumbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods-Lab\Methods-Lab\bin\Debug\netcoreapp3.1\01.SignIntegerNumbers.dll
+C:\Users\Admin\source\repos\Methods-Lab\Methods-Lab\bin\Debug\netcoreapp3.1\01.SignIntegerNumbers.pdb
+C:\Users\Admin\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignIntegerNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignIntegerNumbers.dll
+C:\Users\Admin\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignIntegerNumbers.pdb
+C:\Users\Admin\source\repos\Methods-Lab\Methods-Lab\obj\Debug\netcoreapp3.1\01.SignIntegerNumbers.genruntimeconfig.cache

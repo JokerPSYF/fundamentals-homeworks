@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Lists-Lab\04.ListОfProducts\bin\Debug\netcoreapp3.1\04.ListОfProducts.exe
+C:\Users\Admin\source\repos\Lists-Lab\04.ListОfProducts\bin\Debug\netcoreapp3.1\04.ListОfProducts.deps.json
+C:\Users\Admin\source\repos\Lists-Lab\04.ListОfProducts\bin\Debug\netcoreapp3.1\04.ListОfProducts.runtimeconfig.json
+C:\Users\Admin\source\repos\Lists-Lab\04.ListОfProducts\bin\Debug\netcoreapp3.1\04.ListОfProducts.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Lists-Lab\04.ListОfProducts\bin\Debug\netcoreapp3.1\04.ListОfProducts.dll
+C:\Users\Admin\source\repos\Lists-Lab\04.ListОfProducts\bin\Debug\netcoreapp3.1\04.ListОfProducts.pdb
+C:\Users\Admin\source\repos\Lists-Lab\04.ListОfProducts\obj\Debug\netcoreapp3.1\04.ListОfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Lists-Lab\04.ListОfProducts\obj\Debug\netcoreapp3.1\04.ListОfProducts.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lists-Lab\04.ListОfProducts\obj\Debug\netcoreapp3.1\04.ListОfProducts.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lists-Lab\04.ListОfProducts\obj\Debug\netcoreapp3.1\04.ListОfProducts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lists-Lab\04.ListОfProducts\obj\Debug\netcoreapp3.1\04.ListОfProducts.dll
+C:\Users\Admin\source\repos\Lists-Lab\04.ListОfProducts\obj\Debug\netcoreapp3.1\04.ListОfProducts.pdb
+C:\Users\Admin\source\repos\Lists-Lab\04.ListОfProducts\obj\Debug\netcoreapp3.1\04.ListОfProducts.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Lists-Lab\04.ListОfProducts\obj\Debug\netcoreapp3.1\04.ListОfProducts.csproj.AssemblyReference.cache

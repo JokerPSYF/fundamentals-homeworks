@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.exe
+C:\Users\Admin\source\repos\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.deps.json
+C:\Users\Admin\source\repos\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
+C:\Users\Admin\source\repos\Arrays-Exercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
+C:\Users\Admin\source\repos\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
+C:\Users\Admin\source\repos\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
+C:\Users\Admin\source\repos\Arrays-Exercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Arrays-Lab\08.CondenseArrayТoNumber\bin\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.exe
+C:\Users\Admin\source\repos\Arrays-Lab\08.CondenseArrayТoNumber\bin\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.deps.json
+C:\Users\Admin\source\repos\Arrays-Lab\08.CondenseArrayТoNumber\bin\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrays-Lab\08.CondenseArrayТoNumber\bin\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrays-Lab\08.CondenseArrayТoNumber\bin\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.dll
+C:\Users\Admin\source\repos\Arrays-Lab\08.CondenseArrayТoNumber\bin\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.pdb
+C:\Users\Admin\source\repos\Arrays-Lab\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Arrays-Lab\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Arrays-Lab\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays-Lab\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays-Lab\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrays-Lab\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.dll
+C:\Users\Admin\source\repos\Arrays-Lab\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.pdb
+C:\Users\Admin\source\repos\Arrays-Lab\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.genruntimeconfig.cache

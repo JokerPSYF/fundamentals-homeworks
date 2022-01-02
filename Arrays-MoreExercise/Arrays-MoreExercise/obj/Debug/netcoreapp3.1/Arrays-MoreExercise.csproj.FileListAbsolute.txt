@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Arrays-MoreExercise\Arrays-MoreExercise\bin\Debug\netcoreapp3.1\Arrays-MoreExercise.exe
+C:\Users\Admin\source\repos\Arrays-MoreExercise\Arrays-MoreExercise\bin\Debug\netcoreapp3.1\Arrays-MoreExercise.deps.json
+C:\Users\Admin\source\repos\Arrays-MoreExercise\Arrays-MoreExercise\bin\Debug\netcoreapp3.1\Arrays-MoreExercise.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrays-MoreExercise\Arrays-MoreExercise\bin\Debug\netcoreapp3.1\Arrays-MoreExercise.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrays-MoreExercise\Arrays-MoreExercise\bin\Debug\netcoreapp3.1\Arrays-MoreExercise.dll
+C:\Users\Admin\source\repos\Arrays-MoreExercise\Arrays-MoreExercise\bin\Debug\netcoreapp3.1\Arrays-MoreExercise.pdb
+C:\Users\Admin\source\repos\Arrays-MoreExercise\Arrays-MoreExercise\obj\Debug\netcoreapp3.1\Arrays-MoreExercise.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Arrays-MoreExercise\Arrays-MoreExercise\obj\Debug\netcoreapp3.1\Arrays-MoreExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Arrays-MoreExercise\Arrays-MoreExercise\obj\Debug\netcoreapp3.1\Arrays-MoreExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays-MoreExercise\Arrays-MoreExercise\obj\Debug\netcoreapp3.1\Arrays-MoreExercise.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays-MoreExercise\Arrays-MoreExercise\obj\Debug\netcoreapp3.1\Arrays-MoreExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrays-MoreExercise\Arrays-MoreExercise\obj\Debug\netcoreapp3.1\Arrays-MoreExercise.dll
+C:\Users\Admin\source\repos\Arrays-MoreExercise\Arrays-MoreExercise\obj\Debug\netcoreapp3.1\Arrays-MoreExercise.pdb
+C:\Users\Admin\source\repos\Arrays-MoreExercise\Arrays-MoreExercise\obj\Debug\netcoreapp3.1\Arrays-MoreExercise.genruntimeconfig.cache

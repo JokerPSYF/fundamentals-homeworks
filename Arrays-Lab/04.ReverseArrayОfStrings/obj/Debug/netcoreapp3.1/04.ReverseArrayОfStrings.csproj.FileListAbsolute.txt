@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Arrays-Lab\04.ReverseArrayОfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayОfStrings.exe
+C:\Users\Admin\source\repos\Arrays-Lab\04.ReverseArrayОfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayОfStrings.deps.json
+C:\Users\Admin\source\repos\Arrays-Lab\04.ReverseArrayОfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayОfStrings.runtimeconfig.json
+C:\Users\Admin\source\repos\Arrays-Lab\04.ReverseArrayОfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayОfStrings.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Arrays-Lab\04.ReverseArrayОfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayОfStrings.dll
+C:\Users\Admin\source\repos\Arrays-Lab\04.ReverseArrayОfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayОfStrings.pdb
+C:\Users\Admin\source\repos\Arrays-Lab\04.ReverseArrayОfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayОfStrings.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Arrays-Lab\04.ReverseArrayОfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayОfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Arrays-Lab\04.ReverseArrayОfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayОfStrings.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Arrays-Lab\04.ReverseArrayОfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayОfStrings.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Arrays-Lab\04.ReverseArrayОfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayОfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Arrays-Lab\04.ReverseArrayОfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayОfStrings.dll
+C:\Users\Admin\source\repos\Arrays-Lab\04.ReverseArrayОfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayОfStrings.pdb
+C:\Users\Admin\source\repos\Arrays-Lab\04.ReverseArrayОfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayОfStrings.genruntimeconfig.cache

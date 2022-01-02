@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.Largest3Numbers\bin\Debug\netcoreapp3.1\04.Largest3Numbers.exe
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.Largest3Numbers\bin\Debug\netcoreapp3.1\04.Largest3Numbers.deps.json
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.Largest3Numbers\bin\Debug\netcoreapp3.1\04.Largest3Numbers.runtimeconfig.json
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.Largest3Numbers\bin\Debug\netcoreapp3.1\04.Largest3Numbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.Largest3Numbers\bin\Debug\netcoreapp3.1\04.Largest3Numbers.dll
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.Largest3Numbers\bin\Debug\netcoreapp3.1\04.Largest3Numbers.pdb
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.Largest3Numbers\obj\Debug\netcoreapp3.1\04.Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.Largest3Numbers\obj\Debug\netcoreapp3.1\04.Largest3Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.Largest3Numbers\obj\Debug\netcoreapp3.1\04.Largest3Numbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.Largest3Numbers\obj\Debug\netcoreapp3.1\04.Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.Largest3Numbers\obj\Debug\netcoreapp3.1\04.Largest3Numbers.dll
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.Largest3Numbers\obj\Debug\netcoreapp3.1\04.Largest3Numbers.pdb
+C:\Users\Admin\source\repos\AssociativeArrays-Lab\04.Largest3Numbers\obj\Debug\netcoreapp3.1\04.Largest3Numbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Methods-Lab\10.MultiplyEvensБyOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensБyOdds.exe
+C:\Users\Admin\source\repos\Methods-Lab\10.MultiplyEvensБyOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensБyOdds.deps.json
+C:\Users\Admin\source\repos\Methods-Lab\10.MultiplyEvensБyOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensБyOdds.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods-Lab\10.MultiplyEvensБyOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensБyOdds.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods-Lab\10.MultiplyEvensБyOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensБyOdds.dll
+C:\Users\Admin\source\repos\Methods-Lab\10.MultiplyEvensБyOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensБyOdds.pdb
+C:\Users\Admin\source\repos\Methods-Lab\10.MultiplyEvensБyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensБyOdds.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Methods-Lab\10.MultiplyEvensБyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensБyOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods-Lab\10.MultiplyEvensБyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensБyOdds.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods-Lab\10.MultiplyEvensБyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensБyOdds.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods-Lab\10.MultiplyEvensБyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensБyOdds.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods-Lab\10.MultiplyEvensБyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensБyOdds.dll
+C:\Users\Admin\source\repos\Methods-Lab\10.MultiplyEvensБyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensБyOdds.pdb
+C:\Users\Admin\source\repos\Methods-Lab\10.MultiplyEvensБyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensБyOdds.genruntimeconfig.cache
