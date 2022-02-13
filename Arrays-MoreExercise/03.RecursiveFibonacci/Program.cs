@@ -8,6 +8,7 @@ namespace _03.RecursiveFibonacci
         {
             int nth = int.Parse(Console.ReadLine());
             Console.WriteLine(Fibonacci(nth));
+            Console.WriteLine();
         }
 
         private static int Fibonacci(int nth)

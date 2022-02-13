@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Arrays-MoreExercise\\03.RecursiveFibonacci\\03.RecursiveFibonacci.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\GitHub\\fundamentals-homeworks\\Arrays-MoreExercise\\03.RecursiveFibonacci\\03.RecursiveFibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Arrays-MoreExercise\\03.RecursiveFibonacci\\03.RecursiveFibonacci.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\GitHub\\fundamentals-homeworks\\Arrays-MoreExercise\\03.RecursiveFibonacci\\03.RecursiveFibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Arrays-MoreExercise\\03.RecursiveFibonacci\\03.RecursiveFibonacci.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\GitHub\\fundamentals-homeworks\\Arrays-MoreExercise\\03.RecursiveFibonacci\\03.RecursiveFibonacci.csproj",
         "projectName": "03.RecursiveFibonacci",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Arrays-MoreExercise\\03.RecursiveFibonacci\\03.RecursiveFibonacci.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\GitHub\\fundamentals-homeworks\\Arrays-MoreExercise\\03.RecursiveFibonacci\\03.RecursiveFibonacci.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Arrays-MoreExercise\\03.RecursiveFibonacci\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\GitHub\\fundamentals-homeworks\\Arrays-MoreExercise\\03.RecursiveFibonacci\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
